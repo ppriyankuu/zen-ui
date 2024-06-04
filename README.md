@@ -1,4 +1,3 @@
-🚀 Today we are going to create a Digital Marketplace using Next.js 14, Stripe Connect, Kinde, Prisma, Supabase, and Tailwind! Learn step-by-step and elevate your development skills.
 
 Features: 
 - 🌐 Nextjs App Router
